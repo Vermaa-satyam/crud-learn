@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "first_name": "Rhys",
+    "email": "rrodgman0@columbia.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Miriam",
+    "email": "mpetzolt1@unesco.org",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Madella",
+    "email": "mpickersail2@soundcloud.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Britteny",
+    "email": "blieb3@marriott.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Franky",
+    "email": "fgrazier4@github.io",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 6,
+    "first_name": "Dody",
+    "email": "dblaiklock5@va.gov",
+    "gender": "Polygender"
+  },
+  {
+    "id": 7,
+    "first_name": "Earlie",
+    "email": "ehalfpenny6@sun.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Darlleen",
+    "email": "dbevans7@topsy.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Mignon",
+    "email": "mdemoreno8@engadget.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Nelia",
+    "email": "neyam9@cbsnews.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 11,
+    "first_name": "Timotheus",
+    "email": "tdunbobbina@booking.com",
+    "gender": "Male"
+  },
+  {
+    "id": 12,
+    "first_name": "Aeriela",
+    "email": "asakerb@ask.com",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 13,
+    "first_name": "Stanly",
+    "email": "scraythornec@foxnews.com",
+    "gender": "Male"
+  },
+  {
+    "id": 14,
+    "first_name": "Octavius",
+    "email": "osowrayd@bravesites.com",
+    "gender": "Male"
+  },
+  {
+    "id": 15,
+    "first_name": "Lorrie",
+    "email": "lcaghye@about.com",
+    "gender": "Female"
+  },
+  {
+    "id": 16,
+    "first_name": "Rad",
+    "email": "rcampanaf@google.nl",
+    "gender": "Male"
+  },
+  {
+    "id": 17,
+    "first_name": "Elroy",
+    "email": "emuddimerg@google.co.uk",
+    "gender": "Male"
+  },
+  {
+    "id": 18,
+    "first_name": "Maxy",
+    "email": "mmcginleyh@xrea.com",
+    "gender": "Male"
+  },
+  {
+    "id": 19,
+    "first_name": "Yehudit",
+    "email": "yalejandrei@gizmodo.com",
+    "gender": "Male"
+  },
+  {
+    "id": 20,
+    "first_name": "Gerda",
+    "email": "garnoudj@fc2.com",
+    "gender": "Female"
+  }
+]
